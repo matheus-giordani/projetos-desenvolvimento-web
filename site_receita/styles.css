@@ -1,0 +1,71 @@
+<style> 
+
+        body
+        {
+            
+            background-color: wheat ;
+        }
+        
+        div
+        {
+            border: #7a7a7a;
+            border-radius: 50px;
+            padding: 20px;
+            margin: 30px;
+            font-family: monospace;
+            background-color: white;
+            
+            
+        }
+        .div1
+        {
+            text-align: center;            
+            
+            
+            
+        }
+           
+        
+    
+        .titulo
+        {
+            color: #ff6a28;
+            text-align: center;
+            font-size: 6ex;
+        }
+        .lista
+        {
+            font-size: 4ex;
+            text-align: left;
+        }
+       
+        
+        #link
+        {
+            border:none;
+            font-size: 4ex;
+            text-align: center;
+            
+        }      
+            
+        .display_geral
+        {
+            border:none;
+            background-color: #7a7a7a,;
+        }
+        .display
+        {
+            display: inline-block;
+            border: none;
+            margin: 5ex;
+            font-size: 4ex;
+        }
+        .p_cima
+        {
+            color: #ff6a28;
+        }
+        .p_baixo
+        {
+            
+        }
+    </style>

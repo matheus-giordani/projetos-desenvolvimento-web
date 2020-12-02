@@ -1,0 +1,58 @@
+<style> 
+
+        body{
+            background-color: blue;
+        }
+        p {
+            color: brown;
+
+        }
+
+        
+        #principal {
+            color: aqua;
+            background-color: brown;
+            /*fonte em negrito*/
+               font-weight: bold; 
+               /*alinhamente de texto*/
+               text-align: center;
+        } 
+
+        .chave {
+            color: chocolate;
+            background-color: aliceblue;
+
+        }
+        .espacamento 
+        {
+            margin: 4%;
+        }
+
+        div
+        {
+            border: black 1px solid;
+        }
+        p {
+            /* fazer bordas arredondadas */
+            border-radius: 15px;
+        }
+
+        #divMaior{
+            /*estilo de fonte*/
+            font-family: 'Courier New', Courier, monospace;
+            /*tamanho da fonte*/
+            font-size: xx-large;
+            /*mausculo*/
+            text-transform: uppercase;
+            /*sublinhado*/
+            text-decoration: underline;
+            /*retirar decoração*/
+            text-decoration: none;
+            /*disposição das coisas*/
+            display: flex;
+            
+            
+            
+            
+        }
+    </style>
